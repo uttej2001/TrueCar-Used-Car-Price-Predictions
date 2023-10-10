@@ -216,14 +216,4 @@ https://teamapredictions.herokuapp.com/
 <span id ="fut"></span>
 ## Future Work:
 
-> We are planning to enhance the models more and more, enhance the visual appearance of the deployment, experiment with different added features and make feature selection.
-
-## Contributors:
-- [Palak Agrawal](https://github.com/Palak-Agrawal28).
-- [Harsh Agrawal](https://github.com/Harshcode20).
-- Vansh Tayel.
-- <a href = "https://github.com/shailja-singh" >Shailja Sengar. </a>
-- <a href = "https://github.com/TarekMohamed1999/" >Tarek Mohamed. [Team Leader] </a>
-
-Under mentorship of :
-- <a href = "https://github.com/uttej2001" >Uttej Kumar</a>
+> Planning to enhance the models more and more, enhance the visual appearance of the deployment, experiment with different added features and make feature selection.

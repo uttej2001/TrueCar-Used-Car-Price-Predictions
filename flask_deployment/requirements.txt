@@ -1,0 +1,17 @@
+asn1crypto
+cryptography
+docutils 
+ipython-genutils 
+distlib
+distributed
+flask
+pandas
+numpy
+flask_bootstrap
+sklearn
+scikit-learn
+pickleshare
+cloudpickle 
+tensorflow-cpu
+gunicorn
+lightgbm
